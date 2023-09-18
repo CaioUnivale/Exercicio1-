@@ -1,8 +1,8 @@
-# exibe uma saudação na tela
+
 def saudacao():
     print("Olá! Bem-vindoà demonstração de funções.")
 
-# Chamada da função
+
 saudacao()
 
 
